@@ -69,7 +69,3 @@ jupyter notebook Understanding_deep_learning_and_neural_networks.ipynb
 
 This project is open-source and available under the MIT License.
 
----
-
-🔍 *Exploring the world of AI, one neuron at a time!* 🚀
-
