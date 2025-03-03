@@ -65,7 +65,3 @@ jupyter notebook Understanding_deep_learning_and_neural_networks.ipynb
 - The impact of hyperparameters on training
 - Best practices for optimizing deep learning models
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
